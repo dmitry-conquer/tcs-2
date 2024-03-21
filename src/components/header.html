@@ -1,26 +1,45 @@
-<header class="bg-primary-dark flex w-full items-center py-[20px]">
-  <div class="container flex flex-wrap items-center justify-between gap-y-3 space-x-3">
-    <a href="#">
-      <img src="./img/logo.svg" alt="Logo" class="h-[34px] w-[137px] object-contain sm:h-[58px] sm:w-[248px]" />
-    </a>
-    <nav class="hidden lg:block">
-      <ul class="flex items-center space-x-[56px]">
-        <li>
-          <a href="#services" class="hover:text-primary-light text-lg text-white transition-colors">Послуги</a>
-        </li>
-        <li>
-          <a href="#about" class="hover:text-primary-light text-lg text-white transition-colors">Про нас</a>
-        </li>
-        <li>
-          <a href="#comments" class="hover:text-primary-light text-lg text-white transition-colors">Як ми працюємо</a>
-        </li>
-        <li>
-          <a href="#contacts" class="hover:text-primary-light text-lg text-white transition-colors">Відгуки</a>
-        </li>
-        <li>
-          <a href="#contacts" class="hover:text-primary-light text-lg text-white transition-colors">Контакти</a>
-        </li>
-      </ul>
-    </nav>
+<header class="">
+  <div class="bg-[#232323] py-3 max-lg:hidden">
+    <div class="container flex items-center justify-between">
+      <p class="text-base text-white">Вітаємо вас на сайті TSC online services!</p>
+      <div class="flex items-center gap-x-2.5">
+        <svg class="size-4 text-white">
+          <use href="./sprites/sprite.svg#icon-tg"></use>
+        </svg>
+        <a href="https://t.me/tsc_online_24_Misha" class="text-right text-base text-white underline transition-colors hover:text-primary-light">Офіційний telegram канал</a>
+      </div>
+    </div>
+  </div>
+  <div class="flex w-full items-center bg-primary-dark py-[20px]">
+    <div class="container flex flex-wrap items-center justify-between gap-y-3 space-x-3">
+      <a href="#">
+        <img src="./img/logo.svg" alt="Logo" class="h-[34px] w-[137px] object-contain sm:h-[58px] sm:w-[248px]" />
+      </a>
+      <nav class="hidden lg:block">
+        <ul class="flex items-center space-x-[56px]">
+          <li>
+            <a href="#services" class="text-lg text-white transition-colors hover:text-primary-light">Послуги</a>
+          </li>
+          <li>
+            <a href="#about" class="text-lg text-white transition-colors hover:text-primary-light">Про нас</a>
+          </li>
+          <li>
+            <a href="#works" class="text-lg text-white transition-colors hover:text-primary-light">Як ми працюємо</a>
+          </li>
+          <li>
+            <a href="#comments" class="text-lg text-white transition-colors hover:text-primary-light">Відгуки</a>
+          </li>
+          <li>
+            <a href="#contacts" class="text-lg text-white transition-colors hover:text-primary-light">Контакти</a>
+          </li>
+        </ul>
+      </nav>
+      <div class="flex items-center gap-x-2.5 lg:hidden">
+        <svg class="size-4 text-white">
+          <use href="./sprites/sprite.svg#icon-tg"></use>
+        </svg>
+        <a href="https://t.me/tsc_online_24_Misha" class="text-right text-sm text-white underline transition-colors hover:text-primary-light">Офіційний TG</a>
+      </div>
+    </div>
   </div>
 </header>
