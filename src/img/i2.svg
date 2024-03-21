@@ -1,0 +1,28 @@
+<svg width="66.000000" height="66.000000" viewBox="0 0 66 66" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip1_1302">
+			<rect id="icon.svg - 2024-03-21T000037.845 1" width="66.000000" height="66.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="icon.svg - 2024-03-21T000037.845 1" width="66.000000" height="66.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip1_1302)">
+		<mask id="mask1_1306" mask-type="alpha" maskUnits="userSpaceOnUse" x="0.000000" y="0.000000" width="66.000000" height="66.000000">
+			<path id="path153" d="M0 0L66 0L66 66L0 66L0 0Z" fill="#000000" fill-opacity="1.000000" fill-rule="nonzero"/>
+			<path id="path153" d="M66 0L0 0L0 66L66 66L66 0ZM64 64L2 64L2 2L64 2L64 64Z" fill="#024731" fill-opacity="1.000000" fill-rule="evenodd"/>
+		</mask>
+		<g mask="url(#mask1_1306)">
+			<path id="path159" d="M8.05 39.13L1 19.54C0.88 19.19 1.06 18.82 1.4 18.69C5.13 17.35 9.02 16.04 12.95 14.72M50.34 53.02L27.82 61.11L17.93 64.67C17.59 64.79 17.21 64.61 17.09 64.27L9.53 " stroke="#024731" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round"/>
+			<path id="path163" d="M54.79 52.25L31.4 56.26L21.05 58.04C20.69 58.1 20.35 57.86 20.29 57.5L16.46 35.2L12.25 10.65C12.19 10.29 12.43 9.95 12.79 9.88L24.59 " stroke="#024731" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+			<path id="path167" d="M24.59 27.96L24.59 1.97C24.59 1.59 24.9 1.28 25.27 1.28L55.97 1.28L56.48 1.28C56.69 1.28 56.75 1.37 57.11 1.71L64.64 8.89C64.94 9.18 65.03 9.22 65.03 9.42L65.03 9.84L65.03 40.47L65.03 51.56C65.03 51.94 64.72 52.25 64.34 52.25L36.23 52.25L25.27 52.25C24.9 52.25 24.59 51.94 24.59 51.56L24.59 " stroke="#024731" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+			<path id="path171" d="M55.97 1.28L55.99 8.09C55.99 9.62 57.38 9.52 58.05 9.52L65.03 " stroke="#024731" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+			<path id="path175" d="M58.82 15.33L31.18 " stroke="#024731" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+			<path id="path179" d="M58.82 22.2L31.18 " stroke="#024731" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+			<path id="path183" d="M58.82 29.07L31.18 " stroke="#024731" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+			<path id="path187" d="M58.82 35.93L31.18 " stroke="#024731" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+			<path id="path191" d="M58.82 42.8L31.18 " stroke="#024731" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		</g>
+	</g>
+</svg>
